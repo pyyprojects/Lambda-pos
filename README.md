@@ -1,6 +1,6 @@
 # vueclitest
 
->  A vue.js project
+>  POS收银系统
 
 ## Build Setup
 
